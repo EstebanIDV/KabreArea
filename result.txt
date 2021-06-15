@@ -1,0 +1,2 @@
+Total de puntos: 50000, Total de puntos adentro: 2004 
+Area del fractal = 19238.400391 
